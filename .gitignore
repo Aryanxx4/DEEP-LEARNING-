@@ -19,3 +19,7 @@ venv/
 
 # Kaggle API credentials (keep secret)
 kaggle.json
+
+data/
+*.pth
+*.pt
